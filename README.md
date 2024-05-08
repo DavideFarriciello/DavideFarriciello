@@ -7,7 +7,7 @@
 
 - 🌱 Deepening my front-end development skills, with a keen focus on React.
 
-- 📫 Reach out and connect with me via email at davide.farricello@gmail.com or on [LinkedIn](https://www.linkedin.com/in/davide-farriciello).
+- 📫 Reach out via email at davide.farricello@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

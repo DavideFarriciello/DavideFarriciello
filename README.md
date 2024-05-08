@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
 <h3 align="center">A passionate Software developer from Italy, actually living in Ireland</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/6a/95/83/6a958382d1f12dc90f065c254a92f5c8.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/95/83/6a958382d1f12dc90f065c254a92f5c8.gif">
 
 
 - 🔀 From scissors to scripts: My fascination with styling and creating led me to the world of coding.

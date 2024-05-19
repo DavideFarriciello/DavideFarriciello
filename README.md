@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/95/83/6a958382d1f12dc90f065c254a92f5c8.gif">
 
 
-- 💻 Feel free to have a look to </b> <a href="https://danielefarriciello.dev/" target="_blank">my portfolio</a>
+- 💻 Feel free to have a look to </b> <a href="https://davidefarriciello.dev/" target="_blank">my portfolio</a>
 
 - 🔀 From scissors to scripts: My fascination with styling and creating led me to the world of coding.
 
